@@ -43,11 +43,10 @@ Financial analysts and investors need fine-grained insights from news. A headlin
    - Examined model performance across different entity types
 
 ## Results
-- *Best Model*: [Insert your best model here, e.g. XGBoost / Logistic Regression / RoBERTa]
+- *Best Model*: XGBoost
 - *Performance*:
-  - Accuracy: [Your score]
-  - Macro F1-Score: [Your score]
-  - Per-class performance: [Add if available]
+  - Accuracy: SVM: 0.36, XGBoost: 0.39
+  - Macro F1-Score: SVM: 0.33, XGBoost: 0.36
 
 ## Key Insights
 - Many financial headlines contain multiple entities with mixed sentiments — highlighting the importance of aspect-based approaches.
