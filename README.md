@@ -27,15 +27,15 @@ Financial analysts and investors need fine-grained insights from news. A headlin
 2. *Text Preprocessing*
    - Cleaning, tokenization, and preparation of text for modeling
 
-3. *Feature Engineering / Representation*
-   - Traditional approaches (TF-IDF) and/or modern embeddings
+3. *Feature Engineering *
+   - Traditional approaches (TF-IDF) and modern embeddings
 
 4. *Modeling*
    - Built classification models to predict sentiment for each entity
-   - Explored classical ML models and/or transformer-based approaches
+   - Explored classical ML & DL models and transformer-based approaches
 
 5. *Evaluation*
-   - Metrics: Accuracy, Precision, Recall, F1-Score (macro and per class)
+   - Metrics: Accuracy, Precision, Recall, F1-Score 
    - Special attention to performance on multi-entity headlines
 
 6. *Analysis & Insights*
